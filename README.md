@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kl3mpp4
-- 👀 I’m interested in coding. Just any kind of coding :D
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PHP
-- 💞️ I’m looking to collaborate on... don't know yet!
-- 📫 How to reach me ... To be continued ;)
+- 👋 Hi there! I’m @Kl3mpp4
+- 👀 I’m interested in coding and cybersecurity
+- 🌱 I’m currently learning DART and Mobile development also little bit of testing with PYTHON
+- 💞️ I’m looking to collaborate on projects that help people and makes everyday life easyer!
+- 📫 How to reach me ... information coming soon
 
 <!---
 Kl3mpp4/Kl3mpp4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
