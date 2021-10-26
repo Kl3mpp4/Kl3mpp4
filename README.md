@@ -1,5 +1,5 @@
 - 👋 Hi there! I’m Kl3mpp4
-- 👀 I’m interested in coding and cybersecurity
+- 👀 I’m interested in coding and cyber security
 - 🌱 I’m currently learning DART and Mobile development and also little bit of testing with PYTHON
 - 💞️ I’m looking to collaborate on projects that help people and makes everyday life easier!
 - 📫 How to reach me ... information coming soon
