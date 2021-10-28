@@ -1,6 +1,4 @@
-<h1 align="center">👋 Hi there! I’m Kl3mpp4</h1>
-
-<p align="center">
+<p align="right">
   <a href="https://www.instagram.com/tomi_kleemola/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
@@ -11,6 +9,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+<h1 align="center">👋 Hi there! I’m Kl3mpp4</h1>
 
 - 👀 I’m interested in coding and cyber security<br>
 - 🌱 I’m currently learning DART and Mobile development and also little bit of testing with PYTHON<br>
