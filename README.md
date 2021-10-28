@@ -8,3 +8,5 @@
 Kl3mpp4/Kl3mpp4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Kl3mpp4’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Kl3mpp4&theme=radical&show_icons=true&count_private=true “Kl3mpp4’s GitHub Stats”)
