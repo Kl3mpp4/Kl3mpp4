@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h1 align="center">👋 Hi there! I’m Kl3mpp4</h1>
+<h1 align="center">👋 Hi there! I’m Tomi</h1>
 
 - 👀 I’m interested in coding and cyber security<br>
 - 🌱 I’m currently learning DART and Mobile development and also little bit of testing with PYTHON<br>
