@@ -18,7 +18,7 @@
 - 📫 How to reach me ... information coming soon<br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kl3mpp4&theme=radical&lang_count=4)](https://github.com/Kl3mpp4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kl3mpp4&theme=radical)](https://github.com/Kl3mpp4/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kl3mpp4&theme=radical" alt="most-used-languages" />
