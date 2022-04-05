@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://www.instagram.com/tomi_kleemola/">
+  <a href="https://www.instagram.com/ttomppa__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
   <a href="https://twitter.com/tomikleemola?lang=en">
