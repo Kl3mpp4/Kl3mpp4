@@ -13,7 +13,7 @@
 <h1 align="center">👋 Hi there! I’m Tomi</h1>
 
 - 👀 I’m interested in coding and cyber security<br>
-- 🌱 I’m currently learning DART and Mobile development and also little bit of testing with PYTHON<br>
+- 🌱 I’m currently working on my gym diary app and my personal portfolio website<br>
 - 💞️ I’m looking to collaborate on projects that help people and makes everyday life easier!<br>
 - 📫 How to reach me ... information coming soon<br>
 <br>
